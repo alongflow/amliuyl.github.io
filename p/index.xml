@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>📖 文章 on liuyl&#39;s blog</title>
+    <link>https://liuyl.site/p/</link>
+    <description>Recent content in 📖 文章 on liuyl&#39;s blog</description>
+    <image>
+      <title>liuyl&#39;s blog</title>
+      <url>https://liuyl.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://liuyl.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 20 Mar 2023 01:18:38 +0800</lastBuildDate><atom:link href="https://liuyl.site/p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭建HUGO博客</title>
+      <link>https://liuyl.site/p/tech/%E6%90%AD%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 20 Mar 2023 01:18:38 +0800</pubDate>
+      
+      <guid>https://liuyl.site/p/tech/%E6%90%AD%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</guid>
+      <description>搭建HUGO博客遇到的问题以及功能测试</description>
+    </item>
+    
+    <item>
+      <title>拉普拉斯矩阵</title>
+      <link>https://liuyl.site/p/tech/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%9F%A9%E9%98%B5/</link>
+      <pubDate>Mon, 12 Dec 2022 22:13:45 +0800</pubDate>
+      
+      <guid>https://liuyl.site/p/tech/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%9F%A9%E9%98%B5/</guid>
+      <description>谱图理论中拉普拉斯矩阵学习笔记</description>
+    </item>
+    
+    <item>
+      <title>Min-Max容斥</title>
+      <link>https://liuyl.site/p/tech/min-max%E5%AE%B9%E6%96%A5/</link>
+      <pubDate>Sun, 19 Sep 2021 19:01:20 +0800</pubDate>
+      
+      <guid>https://liuyl.site/p/tech/min-max%E5%AE%B9%E6%96%A5/</guid>
+      <description>算法竞赛概率相关知识点min-max容斥</description>
+    </item>
+    
+    <item>
+      <title>二项式反演</title>
+      <link>https://liuyl.site/p/tech/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%8F%8D%E6%BC%94/</link>
+      <pubDate>Sat, 18 Sep 2021 23:29:49 +0800</pubDate>
+      
+      <guid>https://liuyl.site/p/tech/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%8F%8D%E6%BC%94/</guid>
+      <description>算法竞赛多项式相关知识点</description>
+    </item>
+    
+    <item>
+      <title>组合数学</title>
+      <link>https://liuyl.site/p/tech/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</link>
+      <pubDate>Fri, 10 Sep 2021 23:02:34 +0800</pubDate>
+      
+      <guid>https://liuyl.site/p/tech/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</guid>
+      <description>常用或不常用的组合数学概念与公式</description>
+    </item>
+    
+    <item>
+      <title>线性代数算法竞赛模板</title>
+      <link>https://liuyl.site/p/tech/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Fri, 13 Aug 2021 04:21:30 +0800</pubDate>
+      
+      <guid>https://liuyl.site/p/tech/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/</guid>
+      <description>算法竞赛中线性代数基础应用的代码实现模板</description>
+    </item>
+    
+  </channel>
+</rss>
