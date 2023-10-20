@@ -3,25 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://liuyl.site/p/</loc>
-    <lastmod>2023-10-19T22:13:45+08:00</lastmod>
+    <lastmod>2022-12-12T22:13:45+08:00</lastmod>
   </url><url>
     <loc>https://liuyl.site/</loc>
-    <lastmod>2023-10-19T22:13:45+08:00</lastmod>
+    <lastmod>2022-12-12T22:13:45+08:00</lastmod>
   </url><url>
     <loc>https://liuyl.site/tags/</loc>
-    <lastmod>2023-10-19T22:13:45+08:00</lastmod>
-  </url><url>
-    <loc>https://liuyl.site/categories/</loc>
-    <lastmod>2023-10-19T22:13:45+08:00</lastmod>
-  </url><url>
-    <loc>https://liuyl.site/p/%E5%9B%BD%E7%A7%91%E5%A4%A7nlp%E4%BD%9C%E4%B8%9A%E4%B8%80/</loc>
-    <lastmod>2023-10-19T22:13:45+08:00</lastmod>
-  </url><url>
-    <loc>https://liuyl.site/categories/%E8%AF%BE%E7%A8%8B/</loc>
-    <lastmod>2023-10-19T22:13:45+08:00</lastmod>
-  </url><url>
-    <loc>https://liuyl.site/tags/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/</loc>
-    <lastmod>2023-10-19T22:13:45+08:00</lastmod>
+    <lastmod>2022-12-12T22:13:45+08:00</lastmod>
   </url><url>
     <loc>https://liuyl.site/p/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%9F%A9%E9%98%B5/</loc>
     <lastmod>2022-12-12T22:13:45+08:00</lastmod>
@@ -50,5 +38,7 @@
     <loc>https://liuyl.site/search/</loc>
   </url><url>
     <loc>https://liuyl.site/archives/</loc>
+  </url><url>
+    <loc>https://liuyl.site/categories/</loc>
   </url>
 </urlset>

@@ -10,16 +10,6 @@
       <link>https://liuyl.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Thu, 19 Oct 2023 22:13:45 +0800</lastBuildDate><atom:link href="https://liuyl.site/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>课程</title>
-      <link>https://liuyl.site/categories/%E8%AF%BE%E7%A8%8B/</link>
-      <pubDate>Thu, 19 Oct 2023 22:13:45 +0800</pubDate>
-      
-      <guid>https://liuyl.site/categories/%E8%AF%BE%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh</language><atom:link href="https://liuyl.site/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
